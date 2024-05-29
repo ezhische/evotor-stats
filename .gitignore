@@ -1,0 +1,7 @@
+*.pickle
+__pycache__/*
+__pycache__
+tocken.json
+kitchen.json
+token.json
+envs.sh
